@@ -1,0 +1,10 @@
+{
+    "printWidth": 500,
+    "semi": true,
+    "tabWidth": 4,
+    "singleQuote": true,
+    "vueIndentScriptAndStyle": true,
+    "trailingComma": "none",
+    "singleAttributePerLine": false,
+    "htmlWhitespaceSensitivity": "css"
+}
